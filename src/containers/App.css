@@ -1,6 +1,41 @@
 @import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:wght@900&family=Press+Start+2P&display=swap');
 
+body {
+    background: rgb(255,255,255);
+    background: linear-gradient(37deg, rgba(255,255,255,1) 13%, rgba(0,0,0,1) 100%);
+}; 
+
 h1 {
     font-family: 'Alegreya Sans SC', sans-serif;  
-    color: #0ccac4;
+    color: grey;
+};
+
+.red {
+    background: rgb(231,134,101);
+    background: linear-gradient(37deg, rgba(231,134,101,1) 13%, rgba(215,20,20,1) 100%);
+};
+
+.blue {
+    background: rgb(101,212,231);
+    background: linear-gradient(37deg, rgba(101,212,231,1) 13%, rgba(20,56,215,1) 100%);
+};
+
+.yellow {
+    background: rgb(221,231,101);
+    background: linear-gradient(37deg, rgba(221,231,101,1) 13%, rgba(215,137,20,1) 100%);
+};
+
+.purple {
+background: rgb(244,140,254);
+background: linear-gradient(37deg, rgba(244,140,254,1) 13%, rgba(86,9,120,1) 100%);
+};
+
+.pink {
+background: rgb(254,140,211);
+background: linear-gradient(37deg, rgba(254,140,211,1) 13%, rgba(120,9,78,1) 100%);
+};
+
+.green {
+background: rgb(140,254,213);
+background: linear-gradient(37deg, rgba(140,254,213,1) 13%, rgba(13,69,29,1) 100%);
 }
