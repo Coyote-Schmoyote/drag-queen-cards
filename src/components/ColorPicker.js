@@ -1,15 +1,5 @@
 import React from 'react';
 import '../index.css';
-import Gradient from "javascript-color-gradient";
-
-const colors = {
-    red: '#bf857c',
-    blue:'#8fabbf',
-    yellow:'#dbd78a',
-    purple:'#ac94b0',
-    pink:'#cc8fb7',
-    green:'#7ea38d'
-};
 
 const colorRed = (event, colors) => {
     document.body.style.background = '#bf857c';
