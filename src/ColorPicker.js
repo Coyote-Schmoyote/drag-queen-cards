@@ -1,5 +1,4 @@
 import React from 'react';
-import red from "./db/red/adore.jpg";
 
 
 //colors
