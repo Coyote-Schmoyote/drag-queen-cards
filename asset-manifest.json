@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/drag-queen-cards/static/css/main.21aa9958.chunk.css",
+    "main.js": "/drag-queen-cards/static/js/main.e0f107d2.chunk.js",
+    "main.js.map": "/drag-queen-cards/static/js/main.e0f107d2.chunk.js.map",
+    "runtime-main.js": "/drag-queen-cards/static/js/runtime-main.e70afdb5.js",
+    "runtime-main.js.map": "/drag-queen-cards/static/js/runtime-main.e70afdb5.js.map",
+    "static/css/2.31461e4f.chunk.css": "/drag-queen-cards/static/css/2.31461e4f.chunk.css",
+    "static/js/2.5e61047e.chunk.js": "/drag-queen-cards/static/js/2.5e61047e.chunk.js",
+    "static/js/2.5e61047e.chunk.js.map": "/drag-queen-cards/static/js/2.5e61047e.chunk.js.map",
+    "static/js/3.a52cec94.chunk.js": "/drag-queen-cards/static/js/3.a52cec94.chunk.js",
+    "static/js/3.a52cec94.chunk.js.map": "/drag-queen-cards/static/js/3.a52cec94.chunk.js.map",
+    "index.html": "/drag-queen-cards/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/drag-queen-cards/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.21aa9958.chunk.css.map": "/drag-queen-cards/static/css/main.21aa9958.chunk.css.map",
+    "static/js/2.5e61047e.chunk.js.LICENSE.txt": "/drag-queen-cards/static/js/2.5e61047e.chunk.js.LICENSE.txt",
+    "static/media/adore.a455f03d.jpg": "/drag-queen-cards/static/media/adore.a455f03d.jpg",
+    "static/media/adore.c6e197d0.jpg": "/drag-queen-cards/static/media/adore.c6e197d0.jpg",
+    "static/media/adore.f526ddf6.jpg": "/drag-queen-cards/static/media/adore.f526ddf6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e70afdb5.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.5e61047e.chunk.js",
+    "static/css/main.21aa9958.chunk.css",
+    "static/js/main.e0f107d2.chunk.js"
+  ]
+}
